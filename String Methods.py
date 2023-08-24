@@ -2,8 +2,9 @@
 
 ''' There are 47 Regular Methods and Special or Magic methods are 33 '''
 
-""" Strings are one of the most commonly used data types in any programming language. It represents textual data and sequences of characters. 
-In python, strings are immutable and ordered. This is very impportant while implementing a functions to operate a string. 
+""" 
+Strings are one of the most commonly used data types in any programming language. It represents textual data and 
+sequences of characters. In python, strings are immutable and ordered. This is very impportant while implementing a functions to operate a string. 
 Fortunately, Python has rich in-bulid functions that manipulate strings.
 """
 

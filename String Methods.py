@@ -39,4 +39,3 @@ print(s.title())
 
 s = "#1i_2am_learning_PYTHON_FOR_EVERY_DAY"
 print(s.title())
-dnosbab
